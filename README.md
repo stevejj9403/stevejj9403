@@ -4,7 +4,7 @@ Hi! My name is Steve Jung
 Student, Researcher, and Aspiring Software Engineer
 ---------------------------------------------------
 
-I'm a sophomore studying Computer Science and Applied Mathematics at Vanderbilt University. I am a student researcher in the [Maple Lab](https://my.vanderbilt.edu/maple-lab/) at the Vanderbilt Institute of Surgery and Engineering. Also, I am the Vice President and Tech Lead of the [Vanderbilt Google Developer Student Club](https://github.com/VanderbiltGDSC2023).
+I'm a student studying Computer Science and Applied Mathematics at Vanderbilt University. Also, I am a researcher in the [Maple Lab](https://my.vanderbilt.edu/maple-lab/) at the Vanderbilt Institute of Surgery and Engineering. Also, I am the Vice President and Tech Lead of the [Vanderbilt Google Developer Student Club](https://github.com/VanderbiltGDSC2023).
 
 * 🔭 I am researching the intersection of medical imaging and augmented reality
 * 🌍  I'm from Huntsville, AL
